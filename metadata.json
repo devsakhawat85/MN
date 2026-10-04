@@ -1,0 +1,6 @@
+{
+  "name": "MN Services — Commercial Cleaning & Facility Maintenance",
+  "description": "50+ years of commercial janitorial, floor care, and facility maintenance excellence across the Greater Twin Cities Metro. It's our job to manage the quality of your facilities cleaning, not yours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

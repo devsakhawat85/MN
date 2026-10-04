@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Syne', sans-serif;
+  --color-brand-teal: #09B199;
+  --color-brand-teal-dark: #078E7A;
+  --color-brand-blue: #0678AE;
+  --color-brand-blue-dark: #055C86;
+  --color-brand-navy: #06253C;
+  --color-brand-navy-dark: #031726;
+  --color-brand-navy-light: #0B3A5E;
+  --color-teal-tint: #E8F8F5;
+  --color-blue-tint: #EAF5FA;
+}
+
+/* Custom scrollbar and styling */
+html {
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, .font-display {
+  font-family: var(--font-display);
+}
+
+.text-balance {
+  text-wrap: balance;
+}
+
+
